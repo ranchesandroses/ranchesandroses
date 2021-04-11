@@ -20,8 +20,8 @@
     font-family: 'Indie Flower';
   }
 
-  input, a, button {
-    font-size: 20px;
+  input, a, button, h2, h3 {
+    font-size: 40px;
   }
 
   input, button {
@@ -34,7 +34,7 @@
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 60px;
   }
 </style>
 
